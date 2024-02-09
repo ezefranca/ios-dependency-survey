@@ -5,8 +5,8 @@ authors:
     given-names: Ezequiel França dos
     orcid: https://orcid.org/0000-0001-9321-8444
 title: "Dependency Management in iOS Development: Preferences and Trends"
-version: 0.0.9
+version: 1.0.0
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.1234
+    value: 10.5281/zenodo.10642394
 date-released: 2024-02-09
