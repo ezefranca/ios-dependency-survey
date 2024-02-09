@@ -16,7 +16,7 @@ The purpose of this survey is to:
 ## Participation
 Your participation is invaluable! If you are an iOS developer and have experience with dependency management, we would greatly appreciate your input.
 
-- [Take the Survey](https://forms.gle/uYfCTvvCaVzuYGwdA)
+- [See the Results](https://forms.gle/uYfCTvvCaVzuYGwdA)
 
 ## Data Use and Privacy
 - This survey is for academic purposes only.
