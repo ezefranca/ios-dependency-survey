@@ -1,12 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Santos
-    given-names: Ezequiel França dos
-    orcid: https://orcid.org/0000-0001-9321-8444
-title: "Dependency Management in iOS Development: Preferences and Trends"
+- family-names: "Santos"
+  given-names: "Ezequiel F."
+  orcid: "https://orcid.org/0000-0001-9321-8444"
+title: "iOS Dependency Management Survey"
 version: 1.0.0
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.10642394
-date-released: 2024-02-09
+doi: 10.5281/zenodo.1234
+date-released: 2024-02-12
+url: "https://github.com/ezefranca/ios-dependency-survey"
