@@ -1,4 +1,4 @@
-# iOS Dependency Management Survey
+# iOS Dependency Management Survey [![DOI](https://zenodo.org/badge/713593627.svg)](https://zenodo.org/doi/10.5281/zenodo.10642393)
 
 Welcome to the repository for the iOS Dependency Management Survey!
 
